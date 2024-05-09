@@ -7,6 +7,7 @@
 ## v0.0.4-alpha
 feature:
 1. 增加便笺的图片本地化，支持粘贴
+
 bugfix:
 修复书源json解析bug，兼容漫画情况下的content问题
 
