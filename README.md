@@ -1,8 +1,15 @@
 # markit
 ## 开发列表
-当前开发版本v0.0.4-alpha
+当前开发版本v0.0.5-alpha
 
 未来正式版本开源地址：**[markit](https://github.com/heiyehk/markit)**
+
+## v0.0.5-alpha
+**请注意改版本需要删除位于 `AppData\Roaming\com.markit.heiyehk` 数据库**   
+此版本主要调整订阅相关的功能
+feature: markdown body的一些功能，订阅功能调整  
+refactor: 对于右键菜单的position传入参数调整  
+bugfix: 右键弹窗的bug  
 
 ## v0.0.4-alpha
 feature:
