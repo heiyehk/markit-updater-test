@@ -4,6 +4,11 @@
 
 未来正式版本开源地址：**[markit](https://github.com/heiyehk/markit)**
 
+## v0.0.6-alpha
+feature: 增加部分快捷键操作，软件运行标题调整
+pref: 优化部分UI
+refactor: 重构渲染章节内容
+
 ## v0.0.5-alpha
 **请注意改版本需要删除位于 `AppData\Roaming\com.markit.heiyehk` 数据库**   
 此版本主要调整订阅相关的功能
