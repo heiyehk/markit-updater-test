@@ -4,6 +4,10 @@
 
 未来正式版本开源地址：**[markit](https://github.com/heiyehk/markit)**
 
+## v0.0.7-alpha
+feature: 更新依赖版本；调整摸鱼模式，只在阅读下才有，后续加入到订阅和便笺；滚动模式的功能以及左右按键的滚动增加平滑滚动。
+bugfix: 修复部分bug
+
 ## v0.0.6-alpha
 feature: 增加部分快捷键操作，软件运行标题调整
 pref: 优化部分UI
