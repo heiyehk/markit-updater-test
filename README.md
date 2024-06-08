@@ -1,11 +1,21 @@
 # markit
 ## 开发列表
-当前开发版本v0.0.5-alpha
+当前开发版本![markit alpha tag](https://img.shields.io/github/v/tag/heiyehk/markit-updater-test)
 
 未来正式版本开源地址：**[markit](https://github.com/heiyehk/markit)**
 
+## v0.0.8-alpha
+feature:
+1. 调整朗读功能，可全局显示朗读控件
+2. 优化选项部分功能
+
+bugfix: 修复部分bug
+
 ## v0.0.7-alpha
-feature: 更新依赖版本；调整摸鱼模式，只在阅读下才有，后续加入到订阅和便笺；滚动模式的功能以及左右按键的滚动增加平滑滚动。
+feature: 
+1. 更新依赖版本；调整摸鱼模式，只在阅读下才有
+2. 阅读模式的功能以及左右按键的滚动增加平滑滚动。
+
 bugfix: 修复部分bug
 
 **注意**: 需要清除缓存刷新后使用
