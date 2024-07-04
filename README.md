@@ -4,6 +4,19 @@
 
 未来正式版本开源地址：**[markit](https://github.com/heiyehk/markit)**
 
+## v0.0.9-alpha
+feature:
+1. 增加微软TTS朗读引擎
+2. 增加朗读聚焦段落功能，可在主题中配置是否打开，默认关闭
+3. 增加选项中朗读功能的人声试听功能
+4. 增加选项侧边标题功能
+
+refactor:
+1. 重构获取章节内容功能，抽离公共部分
+
+pref: 一些优化
+bugfix: 一些bugfix
+
 ## v0.0.8-alpha
 feature:
 1. 调整朗读功能，可全局显示朗读控件
